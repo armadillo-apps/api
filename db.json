@@ -1,0 +1,11 @@
+{
+  "apartments": [
+    {
+      "_id": "",
+      "name": "Parc Sophia",
+      "address": "10 Adis Rd, Singapore 229979",
+      "bedrooms": 2,
+      "capacity": 2
+    }
+  ]
+}
