@@ -1,11 +1,25 @@
 {
   "apartments": [
     {
-      "_id": "2fbc8cfa-065a-487f-b3b4-c9b34403b0ba",
-      "name": "Parc Sophia",
-      "address": "10 Adis Rd, Singapore 229979",
-      "bedrooms": 2,
-      "capacity": 2
+      "name": "Parc Sophia Unit #01-01",
+      "vacancy": 2,
+      "leaseStart": "25 JUN 19",
+      "leaseEnd": "25 JUN 22",
+      "render": "$5000"
+    },
+    {
+      "name": "Parc Sophia Unit #02-01",
+      "vacancy": 1,
+      "leaseStart": "25 JUN 19",
+      "leaseEnd": "25 JUN 22",
+      "render": "$5000"
+    },
+    {
+        "name": "Parc Sophia Unit #02-01",
+        "vacancy": 1,
+        "leaseStart": "25 JUN 19",
+        "leaseEnd": "25 JUN 22",
+        "render": "$5000"
     }
   ]
 }
