@@ -1,25 +1,40 @@
 {
   "apartments": [
     {
-      "name": "Parc Sophia Unit #01-01",
-      "vacancy": 2,
-      "leaseStart": "25 JUN 19",
-      "leaseEnd": "25 JUN 22",
-      "rental": "$5000"
+      "name": "China Square Central #01-01",
+      "numBedrooms": 1,
+      "capacity": 1,
+      "leases": [
+        {
+          "leaseStart": "25 Jun 19",
+          "leaseEnd": "25 jun 22",
+          "monthlyRent": 5000
+        }
+      ]
     },
     {
-      "name": "Parc Sophia Unit #02-01",
-      "vacancy": 1,
-      "leaseStart": "25 JUN 19",
-      "leaseEnd": "25 JUN 22",
-      "rental": "$5000"
+      "name": "Parc Sophia #05-10",
+      "numBedrooms": 2,
+      "capacity": 2,
+      "leases": [
+        {
+          "leaseStart": "25 Jun 19",
+          "leaseEnd": "25 jun 22",
+          "monthlyRent": 5000
+        }
+      ]
     },
     {
-        "name": "Parc Angel Unit #02-01",
-        "vacancy": 0,
-        "leaseStart": "25 JUN 19",
-        "leaseEnd": "25 JUN 22",
-        "rental": "$5000"
+      "name": "Parc Angel Unit #02-01",
+      "numBedrooms": 2,
+      "capacity": 0,
+      "leases": [
+        {
+          "leaseStart": "25 Jun 19",
+          "leaseEnd": "25 jun 22",
+          "monthlyRent": 5000
+        }
+      ]
     }
   ]
 }
