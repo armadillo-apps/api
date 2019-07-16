@@ -1,26 +1,28 @@
 {
   "apartments": [
     {
-      "name": "China Square Central #01-01",
-      "numBedrooms": 1,
-      "capacity": 1,
-      "leases": [
+    "name": "China Square Central 01-01",
+    "address": "18 Cross Street #01-01",
+    "bedrooms": 1,
+    "capacity": 1,
+    "leases": [
         {
-          "leaseStart": "25 Jun 19",
-          "leaseEnd": "25 jun 22",
-          "monthlyRent": 5000
+        "leaseStart":"25 Jun 19",
+        "leaseEnd": "25 jun 22",
+        "monthlyRent": 5000
         }
       ]
     },
     {
-      "name": "Parc Sophia #05-10",
-      "numBedrooms": 2,
-      "capacity": 2,
-      "leases": [
+    "name": "Parc Sophia Unit 05-10",
+    "address": "10 Adis Road #05-10",
+    "bedrooms": 2,
+    "capacity": 2,
+    "leases": [
         {
-          "leaseStart": "25 Jun 19",
-          "leaseEnd": "25 jun 22",
-          "monthlyRent": 5000
+        "leaseStart": "25 Jun 19",
+        "leaseEnd": "25 jun 22",
+        "monthlyRent": 6000
         }
       ]
     },
