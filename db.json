@@ -38,5 +38,27 @@
         }
       ]
     }
+  ],
+  "occupants": [
+    {
+      "name": "Jesstern",
+      "employeeId": "1234561b"
+    },
+    {
+      "name": "Elson",
+      "employeeId": "1234562b"
+    },
+    {
+      "name": "Edson",
+      "employeeId": "1234563b"
+    },
+    {
+      "name": "Damian",
+      "employeeId": "1234564b"
+    }
+    {
+      "name": "Putri",
+      "employeeId": "1234565b"
+    }
   ]
 }
